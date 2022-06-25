@@ -4,7 +4,7 @@ I wrote this code as a part of my article about how to make prediction markets i
 In this code, Only the owner can start the prediction market (yeah! this is just for the educational purposes!)
 Have fun!
 
-## Stack Tech
+## Stack layer
 - Solidity
 - Chainlink Oracles
 - Brownie

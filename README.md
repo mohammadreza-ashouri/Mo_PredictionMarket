@@ -11,6 +11,15 @@ Have fun!
 - React
 - Python
 
+## Misc
+- Author: Mo Ashouri
+- Contract: ashourics@protonmail.com
+- Twitter: @ahourics
+- YouTube: https://www.youtube.com/c/Heapzip/videos
+- GitHub: https://github.com/mohammadreza-ashouri/
+- Web: https://ashoury.net
+- Security Analysis: https://bytescan.net/
+
 
 
 

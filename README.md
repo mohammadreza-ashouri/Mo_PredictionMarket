@@ -10,6 +10,7 @@ Have fun!
 - Brownie
 - React
 - Python
+- JavaScript
 
 ## Misc
 - Author: Mo Ashouri
